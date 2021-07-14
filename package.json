@@ -1,0 +1,20 @@
+{
+  "name": "KolorKrush",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobinScavo/KolorKrush.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobinScavo/KolorKrush/issues"
+  },
+  "homepage": "https://github.com/RobinScavo/KolorKrush#readme"
+}
